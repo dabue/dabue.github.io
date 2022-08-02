@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>国盛的博客</title>
-        <link>http://dabue.github.io/</link>
+        <link>https://example.com/</link>
         <description>国盛的博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>dabue@apache.org (Dylan Yang)</managingEditor>
             <webMaster>dabue@apache.org (Dylan Yang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 18 Mar 2022 20:03:25 &#43;0800</lastBuildDate>
-            <atom:link href="http://dabue.github.io/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
